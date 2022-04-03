@@ -1,7 +1,7 @@
 {
   "name": "twitter-api-v2",
   "version": "1.11.2",
-  "description": "Strongly typed, full-featured, light, versatile yet powerful Twitter API v1.1 and v2 client for Node.js.",
+  "description": "Strongly typed, full-featured, light, versatile yet powerful Twitter API v1.1 and v2 client for Node.js. (@higgins fork)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "keywords": [
